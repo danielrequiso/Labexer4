@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Labexer4</string>
+    <string-array name="companyName">
+        <item>ICBC</item>
+        <item>JPMorgan Chase</item>
+        <item>China Construction Bank</item>
+        <item>Agricultural Bank of China</item>
+        <item>Bank of America</item>
+        <item>Apple</item>
+        <item>Ping An Insurance Group</item>
+        <item>Bank of China</item>
+        <item>Royal Dutch Shell</item>
+        <item>Wells Fargo</item>
+        <item>ExxonMobil</item>
+        <item>AT and T</item>
+        <item>Samsung Electronics</item>
+        <item>Citigroup</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>China</item>
+        <item>United States</item>
+        <item>China</item>
+        <item>China</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>China</item>
+        <item>China</item>
+        <item>Netherlands</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>South Korea</item>
+        <item>United States</item>
+    </string-array>
+
+    <string-array name="industry">
+        <item>Major Banks</item>
+        <item>Major Banks</item>
+        <item>Major Banks</item>
+        <item>Regional Banks</item>
+        <item>Major Banks</item>
+        <item>Computer Hardware</item>
+        <item>Diversified Insurance</item>
+        <item>Major Banks</item>
+        <item>Oil and Gas Operations</item>
+        <item>Major Banks</item>
+        <item>Oil and Gas Operation</item>
+        <item>Telecommunications Services</item>
+        <item>Semiconductors</item>
+        <item>Major Banks</item>
+    </string-array>
+
+    <string-array name="ceo">
+        <item>Shu Gu</item>
+        <item>Jamie Dimon</item>
+        <item>Wang Zuji</item>
+        <item>Huan Zhao</item>
+        <item>Brian T. Moynihan</item>
+        <item>Tim Cook</item>
+        <item>Ma Mingzhe</item>
+        <item>Chen Siqing</item>
+        <item>Bernardus Cornelis Margriet van Beurden</item>
+        <item>Timothy Allen Sloan</item>
+        <item>Darren W. Woods</item>
+        <item>Randall L. Stephenson</item>
+        <item>Hyun-Suk Kim</item>
+        <item>Michael L. Louis Corbat</item>
+    </string-array>
+</resources>
